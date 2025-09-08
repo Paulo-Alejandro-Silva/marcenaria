@@ -37,10 +37,10 @@ const Header = () => {
             {/* Logo */}
             <div className="flex items-center space-x-2">
               <div className="bg-primary text-primary-foreground rounded-lg px-3 py-2 font-bold text-xl">
-                PM
+                M
               </div>
               <span className="font-bold text-xl text-foreground">
-                Prime Marcenaria
+               Marcenaria
               </span>
             </div>
 
@@ -120,7 +120,7 @@ const Header = () => {
                   </div>
                   <div className="flex items-center space-x-2">
                     <Mail className="w-4 h-4" />
-                    <span>contato@primemarcenaria.com.br</span>
+                    <span>contato@marcenaria.com.br</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <MapPin className="w-4 h-4" />

@@ -32,7 +32,7 @@ const AboutSection = () => {
           {/* Conteúdo textual */}
           <div className="animate-fade-in-left">
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium mb-6">
-              🏆 Sobre a Prime Marcenaria
+              🏆 Sobre Marcenaria
             </div>
             
             <h2 className="title-section">
@@ -40,7 +40,7 @@ const AboutSection = () => {
             </h2>
             
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              A Prime Marcenaria nasceu da paixão por criar móveis únicos que combinam 
+              A Marcenaria nasceu da paixão por criar móveis únicos que combinam 
               funcionalidade, design e qualidade excepcional. Nossa missão é transformar 
               cada ambiente em um espaço especial que reflita a personalidade e as 
               necessidades de nossos clientes.

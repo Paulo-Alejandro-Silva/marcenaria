@@ -45,9 +45,9 @@ const Footer = () => {
             <div className="lg:col-span-2">
               <div className="flex items-center space-x-3 mb-6">
                 <div className="bg-white text-primary rounded-lg px-3 py-2 font-bold text-xl">
-                  PM
+                  M
                 </div>
-                <span className="font-bold text-2xl">Prime Marcenaria</span>
+                <span className="font-bold text-2xl"> Marcenaria</span>
               </div>
               
               <p className="text-primary-foreground/80 text-lg leading-relaxed mb-6 max-w-md">
@@ -58,7 +58,7 @@ const Footer = () => {
               {/* Redes sociais */}
               <div className="flex space-x-4">
                 <a
-                  href="https://instagram.com/primemarcenaria"
+                  href="https://instagram.com/marcenaria"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors duration-300"
@@ -67,7 +67,7 @@ const Footer = () => {
                   <Instagram className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://facebook.com/primemarcenaria"
+                  href="https://facebook.com/marcenaria"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors duration-300"
@@ -80,7 +80,7 @@ const Footer = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors duration-300"
-                  aria-label="WhatsApp da Prime Marcenaria"
+                  aria-label="WhatsApp da Marcenaria"
                 >
                   <Phone className="w-5 h-5" />
                 </a>
@@ -116,11 +116,11 @@ const Footer = () => {
                 </a>
                 
                 <a
-                  href="mailto:contato@primemarcenaria.com.br"
+                  href="mailto:contato@marcenaria.com.br"
                   className="flex items-center space-x-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-300"
                 >
                   <Mail className="w-5 h-5 flex-shrink-0" />
-                  <span>contato@primemarcenaria.com.br</span>
+                  <span>contato@marcenaria.com.br</span>
                 </a>
                 
                 <a
@@ -156,7 +156,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="py-8 flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
           <div className="text-primary-foreground/70 text-center sm:text-left">
-            <p>&copy; 2024 Prime Marcenaria. Todos os direitos reservados.</p>
+            <p>&copy; 2025 Marcenaria. Todos os direitos reservados.</p>
           </div>
           
           <div className="text-primary-foreground/70 text-center sm:text-right">

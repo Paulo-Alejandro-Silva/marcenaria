@@ -61,8 +61,8 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: 'E-mail',
-      info: 'contato@primemarcenaria.com.br',
-      link: 'mailto:contato@primemarcenaria.com.br'
+      info: 'contato@marcenaria.com.br',
+      link: 'mailto:contato@marcenaria.com.br'
     },
     {
       icon: MapPin,
@@ -132,7 +132,7 @@ const ContactSection = () => {
               <h4 className="font-semibold mb-4">Siga-nos nas redes sociais</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://instagram.com/primemarcenaria"
+                  href="https://instagram.com/marcenaria"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-purple-500 to-pink-500 text-white p-3 rounded-lg hover:scale-105 transition-transform duration-300"
@@ -140,7 +140,7 @@ const ContactSection = () => {
                   <Instagram className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://facebook.com/primemarcenaria"
+                  href="https://facebook.com/marcenaria"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-blue-600 text-white p-3 rounded-lg hover:scale-105 transition-transform duration-300"
